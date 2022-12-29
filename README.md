@@ -4,7 +4,11 @@
  [Twitter](https://twitter.com/abhishekakm20)
 [Linkedin](https://www.linkedin.com/in/abhishek-maurya-43693710b/)
 
-LANGUAGES AND  TOOLS  I've worked on : HTML5 ,CSS3, JAVASCRIPT, REACT, GIT
+LANGUAGES AND  TOOLS  I've worked on : HTML5 
+  CSS3 
+  JAVASCRIPT
+  REACT
+  GIT
 
 <!---
 abhiakm20/abhiakm20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
