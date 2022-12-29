@@ -3,7 +3,7 @@
 - 📫 Connect to me via email-abhishekmaurya20.am@gmail.com
  [Twitter](https://twitter.com/abhishekakm20)
 [Linkedin](https://www.linkedin.com/in/abhishek-maurya-43693710b/)
-![https://user-images.githubusercontent.com/113034954/209923734-4f4bd935-6848-46c3-afa5-01df53cd7e5f.png](https://twitter.com/abhishekakm20)
+
 
 LANGUAGES AND  TOOLS  I've worked on : HTML5 
   CSS3 
