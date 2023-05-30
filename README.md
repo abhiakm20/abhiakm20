@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abhishek
+- Previosuly worked in Mangal Trading company as Ass. Executive Engineer. Then as a Freelancer Subject Matter Expert(SME) at DoubNut and currently working as freelancer SME at Chegg.
 - 🌱 I’ve been learning and working on Front End development using HTML5 ,CSS3 and Javascript.
 - 📫 Connect to me via email-abhishekmaurya20.am@gmail.com
 
